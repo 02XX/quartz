@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Monte Carlo","created":"2025-11-25T21:51:31","modified":"2025-11-25 21:58:28","tags":["计算机图形学"],"cssclasses":""}
+{"publish":true,"title":"Monte Carlo","created":"2025-11-25T21:51:31","modified":"2025-11-25 22:16:13","tags":["计算机图形学"],"cssclasses":""}
 ---
 
 
