@@ -1,9 +1,8 @@
 ---
-{"publish":true,"title":"[[3DGS 透视投影变换]]","created":"2025-11-25T21:33:21","modified":"2025-11-25 21:58:28","cssclasses":""}
+{"publish":true,"title":"[[3DGS 透视投影变换]]","created":"2025-11-25T21:33:21","modified":"2025-11-25T21:58:28","cssclasses":""}
 ---
 
 
-<!--more-->
 ## 3DGS椭球的成像过程的数学推导
 
 假设世界坐标系下的高斯分布为 ${}^{w}G\sim N(\mu,\Sigma)$
